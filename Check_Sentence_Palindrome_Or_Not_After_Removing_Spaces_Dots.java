@@ -7,7 +7,7 @@
 //Output : Sentence is not palindrome.
 
 
-public class Check_Sentence_Palindrome_Or_Not_After_Removing_Spaces_Dots{
+public class Check_Sentence_Palindrome_Or_Not_After_Removing_Spaces_and_Dots{
 
       static boolean checkingSentencePalindrom(String str){
   
